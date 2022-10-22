@@ -1,0 +1,44 @@
+.main{
+    margin: 10px;
+
+}
+.sub{
+    margin: 10px;
+    padding: 10px;
+}
+
+a{
+    background-color:gold;
+    color:red;
+    text-decoration: none;
+    margin-top:10px;
+    padding: 10px;
+    display:inline-block;
+    border-radius:50px;
+    
+}
+a:hover{
+    color: yellow;
+}
+a:visited{
+    color:greenyellow;
+    
+}
+.a{
+    
+    padding:50px;
+    
+
+}
+.b{
+    padding:10px;
+    background-color:blueviolet;
+    margin: 20px;
+     
+}
+.d :hover{
+    color: pink;
+    
+
+    
+}
